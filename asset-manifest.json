@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9cff368.chunk.css",
+    "main.js": "/static/js/main.5e2b8939.chunk.js",
+    "main.js.map": "/static/js/main.5e2b8939.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.88521322.js",
+    "runtime-main.js.map": "/static/js/runtime-main.88521322.js.map",
+    "static/css/2.b99ece6b.chunk.css": "/static/css/2.b99ece6b.chunk.css",
+    "static/js/2.ec6929e3.chunk.js": "/static/js/2.ec6929e3.chunk.js",
+    "static/js/2.ec6929e3.chunk.js.map": "/static/js/2.ec6929e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b99ece6b.chunk.css.map": "/static/css/2.b99ece6b.chunk.css.map",
+    "static/css/main.f9cff368.chunk.css.map": "/static/css/main.f9cff368.chunk.css.map",
+    "static/js/2.ec6929e3.chunk.js.LICENSE.txt": "/static/js/2.ec6929e3.chunk.js.LICENSE.txt",
+    "static/media/award.1ca6c258.svg": "/static/media/award.1ca6c258.svg",
+    "static/media/backImage.d0cb3b74.jpg": "/static/media/backImage.d0cb3b74.jpg",
+    "static/media/compass.d03702e2.svg": "/static/media/compass.d03702e2.svg",
+    "static/media/e (1).7659cbbe.gif": "/static/media/e (1).7659cbbe.gif",
+    "static/media/facebook.54b6ed17.svg": "/static/media/facebook.54b6ed17.svg",
+    "static/media/flag.661b73f2.svg": "/static/media/flag.661b73f2.svg",
+    "static/media/heart.b65bcc72.svg": "/static/media/heart.b65bcc72.svg",
+    "static/media/instagram.4e7b4d58.svg": "/static/media/instagram.4e7b4d58.svg",
+    "static/media/jG.86cb774b.gif": "/static/media/jG.86cb774b.gif",
+    "static/media/linkedin.9e52cf32.svg": "/static/media/linkedin.9e52cf32.svg",
+    "static/media/mail.eee1baa7.svg": "/static/media/mail.eee1baa7.svg",
+    "static/media/map-pin.8c41fcd3.svg": "/static/media/map-pin.8c41fcd3.svg",
+    "static/media/monitor.cd5cd51c.svg": "/static/media/monitor.cd5cd51c.svg",
+    "static/media/phone.22904118.svg": "/static/media/phone.22904118.svg",
+    "static/media/shield.569925d1.svg": "/static/media/shield.569925d1.svg",
+    "static/media/trending-up.ebfe9a72.svg": "/static/media/trending-up.ebfe9a72.svg",
+    "static/media/twitter.410a9d14.svg": "/static/media/twitter.410a9d14.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88521322.js",
+    "static/css/2.b99ece6b.chunk.css",
+    "static/js/2.ec6929e3.chunk.js",
+    "static/css/main.f9cff368.chunk.css",
+    "static/js/main.5e2b8939.chunk.js"
+  ]
+}
